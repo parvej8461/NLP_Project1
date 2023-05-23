@@ -1,1 +1,2 @@
 # NLP_Project1
+The NLP Password Strength Classifier is a project that leverages NLP techniques to analyze the strength of passwords. By treating passwords as text sequences, it aims to identify patterns and characteristics that indicate the strength or weakness of a given password. The classifier can be helpful in security-related applications, password auditing, and user education about strong password creation.
